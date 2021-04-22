@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cursor.edu-hw-react-router/static/css/main.14cebb45.chunk.css",
-    "main.js": "/cursor.edu-hw-react-router/static/js/main.bfd78744.chunk.js",
-    "main.js.map": "/cursor.edu-hw-react-router/static/js/main.bfd78744.chunk.js.map",
+    "main.js": "/cursor.edu-hw-react-router/static/js/main.675e57e5.chunk.js",
+    "main.js.map": "/cursor.edu-hw-react-router/static/js/main.675e57e5.chunk.js.map",
     "runtime-main.js": "/cursor.edu-hw-react-router/static/js/runtime-main.19fd9933.js",
     "runtime-main.js.map": "/cursor.edu-hw-react-router/static/js/runtime-main.19fd9933.js.map",
     "static/js/2.370cd476.chunk.js": "/cursor.edu-hw-react-router/static/js/2.370cd476.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.19fd9933.js",
     "static/js/2.370cd476.chunk.js",
     "static/css/main.14cebb45.chunk.css",
-    "static/js/main.bfd78744.chunk.js"
+    "static/js/main.675e57e5.chunk.js"
   ]
 }
