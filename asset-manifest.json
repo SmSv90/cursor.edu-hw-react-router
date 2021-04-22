@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/cursor.edu-hw-react-router/static/css/main.14cebb45.chunk.css",
+    "main.js": "/cursor.edu-hw-react-router/static/js/main.bfd78744.chunk.js",
+    "main.js.map": "/cursor.edu-hw-react-router/static/js/main.bfd78744.chunk.js.map",
+    "runtime-main.js": "/cursor.edu-hw-react-router/static/js/runtime-main.19fd9933.js",
+    "runtime-main.js.map": "/cursor.edu-hw-react-router/static/js/runtime-main.19fd9933.js.map",
+    "static/js/2.370cd476.chunk.js": "/cursor.edu-hw-react-router/static/js/2.370cd476.chunk.js",
+    "static/js/2.370cd476.chunk.js.map": "/cursor.edu-hw-react-router/static/js/2.370cd476.chunk.js.map",
+    "static/js/3.159a1129.chunk.js": "/cursor.edu-hw-react-router/static/js/3.159a1129.chunk.js",
+    "static/js/3.159a1129.chunk.js.map": "/cursor.edu-hw-react-router/static/js/3.159a1129.chunk.js.map",
+    "index.html": "/cursor.edu-hw-react-router/index.html",
+    "static/css/main.14cebb45.chunk.css.map": "/cursor.edu-hw-react-router/static/css/main.14cebb45.chunk.css.map",
+    "static/js/2.370cd476.chunk.js.LICENSE.txt": "/cursor.edu-hw-react-router/static/js/2.370cd476.chunk.js.LICENSE.txt",
+    "static/media/anon.73be987b.png": "/cursor.edu-hw-react-router/static/media/anon.73be987b.png",
+    "static/media/female.31945b0d.png": "/cursor.edu-hw-react-router/static/media/female.31945b0d.png",
+    "static/media/heart.c412cbae.png": "/cursor.edu-hw-react-router/static/media/heart.c412cbae.png",
+    "static/media/img1.e731b231.jpg": "/cursor.edu-hw-react-router/static/media/img1.e731b231.jpg",
+    "static/media/img2.eed56723.jpg": "/cursor.edu-hw-react-router/static/media/img2.eed56723.jpg",
+    "static/media/img3.5a74429b.jpg": "/cursor.edu-hw-react-router/static/media/img3.5a74429b.jpg",
+    "static/media/img4.07a1e14b.jpg": "/cursor.edu-hw-react-router/static/media/img4.07a1e14b.jpg",
+    "static/media/img5.ed16e95e.jpg": "/cursor.edu-hw-react-router/static/media/img5.ed16e95e.jpg",
+    "static/media/img6.9f228093.jpg": "/cursor.edu-hw-react-router/static/media/img6.9f228093.jpg",
+    "static/media/luke.1eaff380.jpg": "/cursor.edu-hw-react-router/static/media/luke.1eaff380.jpg",
+    "static/media/male.a37b7f10.png": "/cursor.edu-hw-react-router/static/media/male.a37b7f10.png",
+    "static/media/speech-bubble.a7384eca.png": "/cursor.edu-hw-react-router/static/media/speech-bubble.a7384eca.png",
+    "static/media/vegas.78574256.jpg": "/cursor.edu-hw-react-router/static/media/vegas.78574256.jpg",
+    "static/media/welcome.e5e57f29.png": "/cursor.edu-hw-react-router/static/media/welcome.e5e57f29.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19fd9933.js",
+    "static/js/2.370cd476.chunk.js",
+    "static/css/main.14cebb45.chunk.css",
+    "static/js/main.bfd78744.chunk.js"
+  ]
+}
