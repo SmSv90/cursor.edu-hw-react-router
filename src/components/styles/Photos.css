@@ -1,0 +1,18 @@
+.wrapper__photo {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  min-height: 600px;
+  margin: 0 auto;
+}
+
+.photo__block {
+  padding: 1%;
+  width: 30%;
+  height: auto;
+}
+
+.photo__block img {
+  width: 100%;
+  height: auto;
+}
