@@ -4,19 +4,19 @@ import './styles/Navigation.css'
 
 const links = [
   {
-    to: '/',
+    to: '/cursor.edu-hw-react-router/',
     label: 'Home Page'
   },
   {
-    to: '/posts',
+    to: '/cursor.edu-hw-react-router/posts',
     label: 'Posts Page'
   },
   {
-    to: '/contacts',
+    to: '/cursor.edu-hw-react-router/contacts',
     label: 'Contacts Page'
   },
   {
-    to: '/photos',
+    to: '/cursor.edu-hw-react-router/photos',
     label: 'Photos Page'
   }
 ];
