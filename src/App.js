@@ -28,10 +28,10 @@ function App() {
       </header>
       <main>
         <Switch>
-        <Route path="/" exact>
+        <Route path="/cursor.edu-hw-react-router/" exact>
             <HomePage />
           </Route>
-          <Route path="/posts">
+          <Route path="/cursor.edu-hw-react-router/posts">
             <Post author = {{
               name: "Anakin skywalker",
               photo: ANAKIN_IMAGE,
@@ -57,10 +57,10 @@ function App() {
               like = {999}
             />
           </Route>
-          <Route path='/contacts'>
+          <Route path='/cursor.edu-hw-react-router/contacts'>
             <Contacts />
           </Route>
-          <Route path='/photos'>
+          <Route path='/cursor.edu-hw-react-router/photos'>
             <PhotoPage />
           </Route>
         </Switch>
