@@ -53,13 +53,22 @@ vertical-align: middle;
 
 .contact-name,
 .contact-phone,
-.contact-gender {
+.contact-gender,
+.contact-description,
+.contact-messages {
   color: rgb(215, 230, 15);
   border: 2px solid black;
   border-radius: 10px;
   padding: 5px; 
   margin: 5px;
   background-color:rgb(4, 114, 90);
-
 }
 
+a {
+  text-decoration: none;
+}
+
+span {
+  color: rgb(224, 120, 0);
+  font-weight: 500;
+}
