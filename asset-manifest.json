@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cursor.edu-hw-react-router/static/css/main.14cebb45.chunk.css",
-    "main.js": "/cursor.edu-hw-react-router/static/js/main.f340b32f.chunk.js",
-    "main.js.map": "/cursor.edu-hw-react-router/static/js/main.f340b32f.chunk.js.map",
+    "main.css": "/cursor.edu-hw-react-router/static/css/main.8efd95fc.chunk.css",
+    "main.js": "/cursor.edu-hw-react-router/static/js/main.26b00458.chunk.js",
+    "main.js.map": "/cursor.edu-hw-react-router/static/js/main.26b00458.chunk.js.map",
     "runtime-main.js": "/cursor.edu-hw-react-router/static/js/runtime-main.19fd9933.js",
     "runtime-main.js.map": "/cursor.edu-hw-react-router/static/js/runtime-main.19fd9933.js.map",
-    "static/js/2.370cd476.chunk.js": "/cursor.edu-hw-react-router/static/js/2.370cd476.chunk.js",
-    "static/js/2.370cd476.chunk.js.map": "/cursor.edu-hw-react-router/static/js/2.370cd476.chunk.js.map",
+    "static/js/2.f605c8b4.chunk.js": "/cursor.edu-hw-react-router/static/js/2.f605c8b4.chunk.js",
+    "static/js/2.f605c8b4.chunk.js.map": "/cursor.edu-hw-react-router/static/js/2.f605c8b4.chunk.js.map",
     "static/js/3.159a1129.chunk.js": "/cursor.edu-hw-react-router/static/js/3.159a1129.chunk.js",
     "static/js/3.159a1129.chunk.js.map": "/cursor.edu-hw-react-router/static/js/3.159a1129.chunk.js.map",
     "index.html": "/cursor.edu-hw-react-router/index.html",
-    "static/css/main.14cebb45.chunk.css.map": "/cursor.edu-hw-react-router/static/css/main.14cebb45.chunk.css.map",
-    "static/js/2.370cd476.chunk.js.LICENSE.txt": "/cursor.edu-hw-react-router/static/js/2.370cd476.chunk.js.LICENSE.txt",
+    "static/css/main.8efd95fc.chunk.css.map": "/cursor.edu-hw-react-router/static/css/main.8efd95fc.chunk.css.map",
+    "static/js/2.f605c8b4.chunk.js.LICENSE.txt": "/cursor.edu-hw-react-router/static/js/2.f605c8b4.chunk.js.LICENSE.txt",
     "static/media/anon.73be987b.png": "/cursor.edu-hw-react-router/static/media/anon.73be987b.png",
     "static/media/female.31945b0d.png": "/cursor.edu-hw-react-router/static/media/female.31945b0d.png",
     "static/media/heart.c412cbae.png": "/cursor.edu-hw-react-router/static/media/heart.c412cbae.png",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19fd9933.js",
-    "static/js/2.370cd476.chunk.js",
-    "static/css/main.14cebb45.chunk.css",
-    "static/js/main.f340b32f.chunk.js"
+    "static/js/2.f605c8b4.chunk.js",
+    "static/css/main.8efd95fc.chunk.css",
+    "static/js/main.26b00458.chunk.js"
   ]
 }
